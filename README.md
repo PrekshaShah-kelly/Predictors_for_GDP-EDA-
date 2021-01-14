@@ -1,1 +1,2 @@
-# Predictors_for_GDP-EDA-
+# EDA-on-Countries-dataset
+Exploratory Data Analysis on Countries Dataset
